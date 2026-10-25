@@ -20,9 +20,4 @@ UI layouts, form validation, navigation, styling and responsive screens.
 ### Limitations
 Task 2 primarily covers UI/UX; the app also includes supporting screens so it can run as a cohesive project.
 
-### Suggested submission
-- Public GitHub repository containing this task's source and README.
-- LinkedIn screen-recording/video showing the real app running.
-- Portal submission with the actual GitHub and LinkedIn links.
 
-Do not submit placeholder URLs. Run and verify the app on your machine before claiming it is tested.
